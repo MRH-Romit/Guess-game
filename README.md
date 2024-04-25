@@ -1,4 +1,4 @@
-# Guessing Game
+# Guessing Game text based
 
 Welcome to the Guessing Game! In this game, you'll need to guess the correct number within a certain number of lives. Be careful, or the monster might eat you!
 
